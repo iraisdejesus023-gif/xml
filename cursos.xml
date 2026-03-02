@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cursos.xsl"?>
+<!DOCTYPE cursos SYSTEM "cursos.dtd">
+
+<cursos>
+    <curso>
+        <id>1</id>
+        <nombre>Desarrollo web</nombre>
+        <horario>8:00-9:00 am</horario>
+        <precio>$600.00MX</precio>
+        <salon>L03</salon>
+    </curso>
+    <curso>
+        <id>2</id>
+        <nombre>Arduino</nombre>
+        <horario>9:00-10:00 am</horario>
+        <precio>$700.00MX</precio>
+        <salon>L02</salon>
+        
+        <id>3</id>
+        <nombre>Phyton</nombre>
+        <horario>11:00-12:00</horario>
+        <precio>$500.00MX</precio>
+        <salon>L5</salon>
+    </curso>
+    <curso>
+        <id>4</id>
+        <nombre>Haskell</nombre>
+        <horario>8:00-9:00 am</horario>
+        <precio>$500.00MX</precio>
+        <salon>L1</salon>
+    </curso>
+    <curso>
+        <id>5</id>
+        <nombre>Mantenimiento de computo</nombre>
+        <horario>8:00-9:00 pm</horario>
+        <precio>$600.00MX</precio>
+        <salon>L03</salon>
+    </curso>
+    <curso>    
+        <id>6</id>
+        <nombre>Seguridad informatica</nombre>
+        <horario>8:00-9:00 am</horario>
+        <precio>$400.00MX</precio>
+        <salon>10</salon>
+    </curso>
+    <curso>    
+        <id>7</id>
+        <nombre>Java</nombre>
+        <horario>8:00-9:00 am</horario>
+        <precio>$600.00MX</precio>
+        <salon>37</salon>
+   </curso>
+</cursos>
+
